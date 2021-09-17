@@ -151,7 +151,7 @@ if(empty($_SESSION['user_id'])){
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="">
   <meta name="keywords" content="">
-  <title>Connexion | ENERGISDATA</title>
+  <title>Connexion | ENERGISDATA1</title>
   <link rel="shortcut icon" href="PAGE/img/logo/logop.ico">
 <link rel="stylesheet" href="page/fonts/open-sans/style.min.css">
 <link rel="stylesheet" href="page/fonts/iconfont/iconfont.css">
